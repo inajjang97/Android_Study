@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_c82bc5e3109f67e5890b8a543c65e6891dca629f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_4068d6cab0fbd38597104897aa3dea226f223ece.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_63b0c48bbb65c3a753e1b31417cb7906ba1bf554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_f685bb8ce21391ae262669da3bc17ffc4fb1039e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_2bf5680bbf5b37ab12363af38d42f6e6ad3169ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_f0974d0257fe733d61ab2845e1aa3ec41b147b13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_cc1733cb7d25faef3df756f5052627c4b6d17210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_aa7b482a945223caf019c4dc9676e14e30d3f972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_43bc587e246553551eb0f446cd0dfa76ffc0ca73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/release/Desktop/ina/DAY_01/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_51b11efd06604523d589938374d38b80d06495dc.jar" />
+    </item>
+
+</items>
